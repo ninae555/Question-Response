@@ -1,0 +1,14 @@
+Plan Name,Behavior,Scheduled DateTime,Duration,Intention (Boolean),Check in DateTime,Check in %,Check in Note
+Run 3x/Week for 14 Days,Run,1/4/2023 8:00:00,20min,Yes,1/4/2023 4:00 PM,100,
+Run 3x/Week for 14 Days,Run,1/5/2023 8:00:00,20min,Yes,1/5/2023 4:00 PM,80,got tired 1/2 way through but did it
+Run 3x/Week for 14 Days,Run,1/6/2023 8:00:00,20min,No,,0,don't want to today
+Run 3x/Week for 14 Days,Run,1/7/2023 8:00:00,20min,Yes,1/7/2023 4:00 PM,50,
+Run 3x/Week for 14 Days,Run,1/8/2023 8:00:00,20min,Yes,1/8/2023 8:30 AM,100,felt great!
+Run 3x/Week for 14 Days,Run,1/9/2023 8:00:00,20min,Yes,1/9/2023 4:00 PM,0,blech
+Run 3x/Week for 14 Days,Run,1/10/2023 8:00:00,20min,Yes,1/10/2023 4:00 PM,80,
+Run 3x/Week for 14 Days,Run,1/11/2023 8:00:00,20min,Yes,1/11/2023 8:30 AM,100,"around the park, 9 min/mile"
+Run 3x/Week for 14 Days,Run,1/12/2023 8:00:00,20min,Yes,1/12/2023 12:00 PM,100,8:30/min mile
+Run 3x/Week for 14 Days,Run,1/13/2023 8:00:00,20min,Yes,1/13/2023 2:15 PM,75,nice
+Run 3x/Week for 14 Days,Run,1/14/2023 8:00:00,20min,Yes,1/14/2023 4:00 PM,80,exhausted
+Run 3x/Week for 14 Days,Run,1/15/2023 8:00:00,20min,Yes,1/11/2023 8:30 AM,100,can't believe I made it
+Run 3x/Week for 14 Days,Run,1/16/2023 8:00:00,20min,Yes,1/16/2023 10:00 AM,40,"last day, but still got it in"
